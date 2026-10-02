@@ -1,1 +1,0 @@
-ALTER TABLE public.parties ADD COLUMN IF NOT EXISTS address text;
